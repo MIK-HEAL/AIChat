@@ -1,0 +1,10 @@
+{
+  "enabled": true,
+  "capture_interval": 1.0,
+  "region": null,
+  "ocr": {
+    "enabled": true,
+    "language": "chi_sim+eng"
+  },
+  "max_history": 10
+}

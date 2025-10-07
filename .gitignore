@@ -1,0 +1,43 @@
+# 编译输出
+bin/
+obj/
+[Bb]uild/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# 包与依赖
+packages/
+*.nupkg
+*.snupkg
+
+# 日志与调试
+*.log
+*.tlog
+*.svclog
+*.pidb
+*.psess
+*.vsp
+*.vspscc
+
+# 发布
+publish/
+app.publish/
+
+# 临时文件
+[Tt]emp/
+*.tmp
+*.cache
+*.swp
+*.bak
+*.orig
+
+# Rider/JetBrains
+.idea/
+*.iml

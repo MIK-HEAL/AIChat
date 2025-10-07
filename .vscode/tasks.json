@@ -1,0 +1,13 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Run app (PyQt5)",
+      "type": "shell",
+      "command": "powershell -NoProfile -NonInteractive -ExecutionPolicy Bypass -Command \"$env:QT_QPA_PLATFORM='windows:darkmode=2'; .\\ailive\\Scripts\\python.exe .\\ShowQt.py\"",
+      "isBackground": false,
+      "problemMatcher": [],
+      "group": "build"
+    }
+  ]
+}
