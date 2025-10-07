@@ -41,3 +41,9 @@ app.publish/
 # Rider/JetBrains
 .idea/
 *.iml
+
+# 其他
+*.backup
+*.pyc
+
+/data/vision/*.jpg
