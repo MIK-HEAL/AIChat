@@ -1,0 +1,13 @@
+certifi  
+charset-normalizer 
+idna   
+live2d-py     
+mss        
+numpy        
+packaging       
+pillow      
+pip               
+PyOpenGL 
+pytesseract
+requests
+urllib3
